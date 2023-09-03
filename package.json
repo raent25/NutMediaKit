@@ -1,0 +1,19 @@
+{
+  "name": "nut-media-kit",
+  "version": "1.0.0",
+  "description": "This project is a small JavaScript library designed for automating and configuring web pages in media buying. It assists in automatically adding tracking links, configuring links, changing product names, and much more. Use this tool to efficiently manage your pages and streamline your media buying efforts.",
+  "main": "nutMediaKit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raent25/NutMediaKit.git"
+  },
+  "author": "Vlad Homeniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raent25/NutMediaKit/issues"
+  },
+  "homepage": "https://github.com/raent25/NutMediaKit#readme"
+}
