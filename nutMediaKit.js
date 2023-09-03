@@ -1,4 +1,4 @@
-function nut({
+exports.nut = function ({
   link = 'https://google.com', //tracking link
   autoLink = true, // autocompletion of links on the pre-landing page
   target = true, // open in a new window
